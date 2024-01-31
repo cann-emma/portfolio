@@ -15,8 +15,10 @@ An independent analysis in R of Antarctic penguins, summarizing data on species,
 
 
 American high school students take SATs, standardized tests that had three sections - reading, math, and writing, each with a maximum score of 800 points(2400 total). These tests serve an important role in the admission process for students and colleges alike. However, does where you live affect scores?
-[NYC Schools](https://github.com/Cann-Emma/portfolio/blob/main/ANOVA_SAT_Score_by_NYCBorough.ipynb)
+![ANOVA MEAN TOTAL SAT SCORE BY NYC BOROUGH (1)](https://github.com/Cann-Emma/portfolio/assets/143144256/7853f04a-ebb7-4b29-873e-03fa35962957)
 
+
+![Textmining](https://github.com/Cann-Emma/portfolio/assets/143144256/762aaf2b-c1aa-47f6-929b-de06eeb810d1)
 
 
 
