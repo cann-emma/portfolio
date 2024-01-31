@@ -12,7 +12,7 @@ An independent analysis in R of Antarctic penguins, summarizing data on species,
 
 ### ANOVA: Mean SAT Score By New York City Borough
 
-![ANOVA MEAN TOTAL SAT SCORE BY NYC BOROUGH (1)](https://github.com/Cann-Emma/portfolio/assets/143144256/7853f04a-ebb7-4b29-873e-03fa35962957)
+![07SAT-01-superJumbo-v5](https://github.com/Cann-Emma/portfolio/assets/143144256/e4cacfca-7892-445e-acb5-1f2779ab541a)
 
 
 
@@ -23,11 +23,13 @@ American high school students take SATs, standardized tests that had three secti
 ## Text Mining: Beatle Lyrics
 
 ![Textmining](https://github.com/Cann-Emma/portfolio/assets/143144256/762aaf2b-c1aa-47f6-929b-de06eeb810d1)
-[Lyrics Analysis]("https://github.com/Cann-Emma/PSYC-5710-Text-Mining-and-ML/blob/main/TextMining.ipynb")
+
+
+A lyric analysis of 187 Beatles songs, and the frequency of 72 token terms[Lyrics Analysis]("https://github.com/Cann-Emma/PSYC-5710-Text-Mining-and-ML/blob/main/TextMining.ipynb")
 
 
 
-### For smaller projects, please visit:
+### For a glimpse into my other works, please visit:
 [DataCamp](https://www.datacamp.com/portfolio/zgb8ts)
 
 [GitHub](https://github.com/Cann-Emma?tab=stars)
