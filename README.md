@@ -17,7 +17,7 @@ An independent analysis in R of Antarctic penguins, summarizing data on species,
 
 
 American high school students take SATs, standardized tests that had three sections - reading, math, and writing, each with a maximum score of 800 points(2400 total). These tests serve an important role in the admission process for students and colleges alike. However, does where you live affect scores?
-[SAT Analysis]("https://github.com/Cann-Emma/R/blob/main/ANOVA_SAT_Score_by_NYCBorough.ipynb")
+[SAT Analysis](https://github.com/Cann-Emma/R/blob/main/ANOVA_SAT_Score_by_NYCBorough.ipynb)
 
 
 ## Text Mining: Beatle Lyrics
@@ -26,7 +26,7 @@ American high school students take SATs, standardized tests that had three secti
 
 
 A lyric analysis of 187 Beatles songs, and the frequency of 72 token terms  
-[Lyrics Analysis]("https://github.com/Cann-Emma/PSYC-5710-Text-Mining-and-ML/blob/main/TextMining.ipynb")
+[Lyrics Analysis](https://github.com/Cann-Emma/PSYC-5710-Text-Mining-and-ML/blob/main/TextMining.ipynb)
 
 
 
