@@ -11,14 +11,18 @@ An independent analysis in R of Antarctic penguins, summarizing data on species,
 
 ### ANOVA: Mean SAT Score By New York City Borough
 
-![NYC]("https://github.com/Cann-Emma/portfolio/blob/main/assets/ANOVA%20MEAN%20TOTAL%20SAT%20SCORE%20BY%20NYC%20BOROUGH.png")
-
-
-American high school students take SATs, standardized tests that had three sections - reading, math, and writing, each with a maximum score of 800 points(2400 total). These tests serve an important role in the admission process for students and colleges alike. However, does where you live affect scores?
 ![ANOVA MEAN TOTAL SAT SCORE BY NYC BOROUGH (1)](https://github.com/Cann-Emma/portfolio/assets/143144256/7853f04a-ebb7-4b29-873e-03fa35962957)
 
 
+
+American high school students take SATs, standardized tests that had three sections - reading, math, and writing, each with a maximum score of 800 points(2400 total). These tests serve an important role in the admission process for students and colleges alike. However, does where you live affect scores?
+[SAT Analysis]("https://github.com/Cann-Emma/R/blob/main/ANOVA_SAT_Score_by_NYCBorough.ipynb")
+
+
+## Text Mining: Beatle Lyrics
+
 ![Textmining](https://github.com/Cann-Emma/portfolio/assets/143144256/762aaf2b-c1aa-47f6-929b-de06eeb810d1)
+[Lyrics Analysis]("https://github.com/Cann-Emma/PSYC-5710-Text-Mining-and-ML/blob/main/TextMining.ipynb")
 
 
 
