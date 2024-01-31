@@ -25,7 +25,8 @@ American high school students take SATs, standardized tests that had three secti
 ![Textmining](https://github.com/Cann-Emma/portfolio/assets/143144256/762aaf2b-c1aa-47f6-929b-de06eeb810d1)
 
 
-A lyric analysis of 187 Beatles songs, and the frequency of 72 token terms[Lyrics Analysis]("https://github.com/Cann-Emma/PSYC-5710-Text-Mining-and-ML/blob/main/TextMining.ipynb")
+A lyric analysis of 187 Beatles songs, and the frequency of 72 token terms  
+[Lyrics Analysis]("https://github.com/Cann-Emma/PSYC-5710-Text-Mining-and-ML/blob/main/TextMining.ipynb")
 
 
 
