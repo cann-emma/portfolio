@@ -31,7 +31,7 @@ A lyric analysis of 187 Beatles songs, and the frequency of 72 token terms
 
 
 
-### For a glimpse into my other works, please visit:
+### For a glimpse of my other works, please visit:
 [DataCamp](https://www.datacamp.com/portfolio/zgb8ts)
 
 [GitHub](https://github.com/Cann-Emma?tab=stars)
