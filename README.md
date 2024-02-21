@@ -2,7 +2,7 @@
 
 ### Data Analysis Of Palmer Archipelago Penguins
 
-![Gentoo-penguin-Poring-Studio](https://github.com/Cann-Emma/portfolio/assets/143144256/10d3a7b2-1c07-49ed-b6f9-77ac2a24ac3f)[Image from ExplorersWeb]
+![Gentoo-penguin-Poring-Studio](https://github.com/Cann-Emma/portfolio/assets/143144256/10d3a7b2-1c07-49ed-b6f9-77ac2a24ac3f)
 
 
 
@@ -32,7 +32,7 @@ A lyric analysis of 187 Beatles lyrics, and the frequency of 72 token terms
 
 ## APGAR Multiple Regression Analysis
 
-![images](https://github.com/Cann-Emma/portfolio/assets/143144256/f4dc6b8f-1b43-4763-a0a2-389c0df6d96a)
+![Newborn-screening-in-Canada](https://github.com/Cann-Emma/portfolio/assets/143144256/403e96b8-f9c6-4757-837a-ca869a3d2aa9)
 
 
 
