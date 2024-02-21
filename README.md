@@ -22,16 +22,26 @@ American high school students take SATs, standardized tests that had three secti
 
 ## Analysis of Beatle Lyrics
 
-![download](https://github.com/Cann-Emma/portfolio/assets/143144256/403bd467-46fb-46c0-8da1-a17d3f32b997)
+![download](https://github.com/Cann-Emma/portfolio/assets/143144256/86cde12f-d996-41bd-b431-a181431ef0cc)
 
 
 
-A lyric analysis of 187 Beatles songs, and the frequency of 72 token terms  
-[Lyrics Analysis](https://github.com/Cann-Emma/PSYC-5710-Text-Mining-and-ML/blob/main/TextMining.ipynb)
+A lyric analysis of 187 Beatles lyrics, and the frequency of 72 token terms  
+[Lyrics Analysis](https://github.com/Cann-Emma/PSYC-5710-Text-Mining-and-ML/blob/main/BeatlesLyricAnalysis.ipynb)
+
+
+## APGAR Multiple Regression Analysis
+
+![images](https://github.com/Cann-Emma/portfolio/assets/143144256/f4dc6b8f-1b43-4763-a0a2-389c0df6d96a)
 
 
 
-### For a glimpse of my other works, please visit:
+A multiple regression analysis was conducted to predict APGAR(Activity, Pulse, Grimace, Appearance, Respiration) scores from birthweight, gestastional age, and maternal weight gain. 
+[APGAR](https://github.com/Cann-Emma/R/blob/main/APGAR_Multiple_Regression.ipynb)
+
+
+
+### What I am learning and other projects:
 [DataCamp](https://www.datacamp.com/portfolio/zgb8ts)
 
 [GitHub](https://github.com/Cann-Emma?tab=stars)
