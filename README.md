@@ -22,7 +22,7 @@ American high school students take SATs, standardized tests that had three secti
 
 ## Analysis of Beatle Lyrics
 
-![download](https://github.com/Cann-Emma/portfolio/assets/143144256/86cde12f-d996-41bd-b431-a181431ef0cc)
+![the-beatles-black-and-white-1600x900-wallpaper-15838](https://github.com/Cann-Emma/portfolio/assets/143144256/f53236d0-7db0-4839-860e-168da95b3ebc)
 
 
 
