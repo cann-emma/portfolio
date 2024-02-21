@@ -12,7 +12,7 @@ An independent analysis in R of Antarctic penguins, summarizing data on species,
 
 ### Analysis of Mean SAT Score By New York City Borough
 
-![07SAT-01-superJumbo-v5](https://github.com/Cann-Emma/portfolio/assets/143144256/e4cacfca-7892-445e-acb5-1f2779ab541a)
+![scantron-56a946695f9b58b7d0f9d809](https://github.com/Cann-Emma/portfolio/assets/143144256/b8e3a8be-9260-4d5e-8649-ff486975655d)
 
 
 
