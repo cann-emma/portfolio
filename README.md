@@ -46,7 +46,7 @@ A multiple regression analysis was conducted to predict APGAR(Activity, Pulse, G
 
 
 
-An data driven album API built using created data from MySql. This API has endpoints for a static view and an endpoint that filters data by id. Python, Gitpod, GitHub, and MySql were involved in creating this project. All documentation can be found [here] (https://github.com/cann-emma/fastapi-demo-fork/blob/main/app/main.py)
+An data driven album API built using created data from MySql. This API has endpoints for a static view and an endpoint that filters data by id. Python, Gitpod, GitHub, and MySql were involved in creating this project. All documentation can be found [here] (https://github.com/cann-emma/fastapi-demo-fork/blob/main/app/main.py).
 
 ### What I am learning and other projects:
 [DataCamp](https://www.datacamp.com/portfolio/zgb8ts)
