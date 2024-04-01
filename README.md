@@ -40,6 +40,13 @@ A multiple regression analysis was conducted to predict APGAR(Activity, Pulse, G
 [APGAR](https://github.com/Cann-Emma/R/blob/main/APGAR_Multiple_Regression.ipynb)
 
 
+## Album API
+
+![Screenshot 2024-03-31 112753](https://github.com/cann-emma/portfolio/assets/143144256/c5566aec-1440-447a-afe5-5b4b6eba55bc)
+
+
+
+An data driven album API built using created data from MySql. This API has endpoints for a static view and an endpoint that filters data by id. Python, Gitpod, GitHub, and MySql were involved in creating this project. All documentation can be found [here] (https://github.com/cann-emma/fastapi-demo-fork/blob/main/app/main.py)
 
 ### What I am learning and other projects:
 [DataCamp](https://www.datacamp.com/portfolio/zgb8ts)
