@@ -1,5 +1,14 @@
 # PROJECTS
 
+
+### Kaggle Machine Learning 
+![Screenshot 2024-07-28 000558](https://github.com/user-attachments/assets/1e742083-aed9-4b9b-af00-55a5de45b301) 
+
+
+
+Built a machine learning model to predict ratings of medications based on information from medication review. Text mining and exploratory graph analysis were used to preprocess and develop topics from text. Emoxicon and sentiment analysis were used to compute emotions and sentiments available in the review. Finally, transformer scores were used to analyse sentiment and compute probability of review belonging to 'Satisfication' classes, and Multivariate Adaptive Regression Spines was used to train model. Root Mean Squared Error was used to test the performance of my model. The primary language in this project was R. 
+
+
 ### Data Analysis Of Palmer Archipelago Penguins
 
 ![Gentoo-penguin-Poring-Studio](https://github.com/Cann-Emma/portfolio/assets/143144256/10d3a7b2-1c07-49ed-b6f9-77ac2a24ac3f)
