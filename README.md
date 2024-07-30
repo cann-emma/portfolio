@@ -39,11 +39,6 @@ A lyric analysis of 187 Beatles lyrics, and the frequency of 72 token terms
 [Lyrics Analysis](https://github.com/Cann-Emma/PSYC-5710-Text-Mining-and-ML/blob/main/BeatlesLyricAnalysis.ipynb)
 
 
-## 
-![Screenshot 2024-07-29 200504](https://github.com/user-attachments/assets/a844ce2f-25ab-44ca-923d-8fac21fa9bd2)
-
-
-Parsed JSON data from 
 
 ## APGAR Multiple Regression Analysis
 
@@ -64,7 +59,17 @@ A multiple regression analysis was conducted to predict APGAR(Activity, Pulse, G
 An data driven album API built using created data from MySql. This API has endpoints for a static view and an endpoint that filters data by id. Python, Gitpod, GitHub, and MySql were involved in creating this project. Documentation can be found [here](https://github.com/cann-emma/fastapi-demo-fork/blob/main/app/main.py).
 
 
-### What I am learning and other projects:
-[DataCamp](https://www.datacamp.com/portfolio/zgb8ts)
+### TECHNOLOGIES:
+### [R]
+(https://github.com/cann-emma/R)
+### [Python]
+[Programming]
+(https://github.com/cann-emma/DS1002-zgb8ts/tree/main/homework)
+[Systems]
+(https://github.com/cann-emma/ds2002-course/blob/main/mywork)
+(https://github.com/cann-emma/ds2002-dp2/blob/main/import.py)
+(https://github.com/cann-emma/fastapi-demo-fork/blob/main/app/main.py)
+### [SQL, Python, R]
+(https://www.datacamp.com/portfolio/zgb8ts)
 
-[GitHub](https://github.com/Cann-Emma?tab=stars)
+
