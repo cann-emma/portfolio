@@ -6,7 +6,7 @@
 
 
 
-Built a machine learning model to predict ratings of medications based on information from medication review. Text mining and exploratory graph analysis were used to preprocess and develop topics from text. Emoxicon and sentiment analysis were used to compute emotions and sentiments available in the review. Finally, transformer scores were used to analyse sentiment and compute probability of review belonging to 'Satisfication' classes, and Multivariate Adaptive Regression Spines was used to train model. Root Mean Squared Error was used to test the performance of my model. The primary language in this project was R. 
+A machine learning model was built to predict ratings of medications based on information from medication review. Text mining and exploratory graph analysis were used to preprocess and develop topics from text. Emoxicon and sentiment analysis were used to compute emotions and sentiments available in the review. Finally, transformer scores were used to analyse sentiment and compute probability of review belonging to 'Satisfication' classes, and Multivariate Adaptive Regression Spines was used to train model. Root Mean Squared Error was used to test the performance of the model. The primary language in this project was R. 
 
 
 ### Data Analysis Of Palmer Archipelago Penguins
@@ -38,6 +38,12 @@ American high school students take SATs, standardized tests that had three secti
 A lyric analysis of 187 Beatles lyrics, and the frequency of 72 token terms  
 [Lyrics Analysis](https://github.com/Cann-Emma/PSYC-5710-Text-Mining-and-ML/blob/main/BeatlesLyricAnalysis.ipynb)
 
+
+## 
+![Screenshot 2024-07-29 200504](https://github.com/user-attachments/assets/a844ce2f-25ab-44ca-923d-8fac21fa9bd2)
+
+
+Parsed JSON data from 
 
 ## APGAR Multiple Regression Analysis
 
