@@ -1,8 +1,9 @@
 title: Emmanuella Cann
 description: BS Psychology and Data Science Student University of Virginia
 show_downloads: True
-theme: jekyll-theme-timemachine
-
+remote_theme: pages-themes/time-machine@v0.2.0
+plugins:
+- jekyll-remote-theme 
 
 
 
