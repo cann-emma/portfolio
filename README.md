@@ -94,7 +94,7 @@ A multiple regression analysis was conducted to predict APGAR(Activity, Pulse, G
 
 ## Contact
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/emmanuella-cann) or email me at [zgb8ts@virginia.edu].
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/emmanuella-cann) or [email](zgb8ts@virginia.edu).
 
 ---
 
