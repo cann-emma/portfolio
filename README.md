@@ -48,7 +48,7 @@ A multiple regression analysis was conducted to predict APGAR(Activity, Pulse, G
 
 ## Coursework
 
-### Course 1: [Machine Learning and Data Mining]
+### Course 1: Machine Learning and Data Mining
 - **Institution:** University of Virginia.
 - **Description:** Introductory course that explores fundamental techniques and methods in machine learning and data mining, utilizing R for practical application and real-world problem-solving.
 - **Key Projects:**
@@ -56,7 +56,7 @@ A multiple regression analysis was conducted to predict APGAR(Activity, Pulse, G
 - [Big 5 Personality Analysis](https://github.com/cann-emma/PSYC-5710-Text-Mining-and-ML/tree/main/ExploratoryAnalysis)
 
 
-### Course 2: [Data Science Systems]
+### Course 2: Data Science Systems
 - **Institution:** University of Virginia.
 - **Description:** Provides an in-depth understanding of the command-line interface, scripting, code management, and the creation and administration of both local and cloud-based resources. Primary focus on Git and GitHub, Amazon Web Service(Simple Storage Service, Elastic Compute Cloud, and Simple Queue Service), Application Programming Interface, Data Base Management(MySQL, MongoDB), etc.
 - **Key Projects:**
@@ -64,7 +64,7 @@ A multiple regression analysis was conducted to predict APGAR(Activity, Pulse, G
 -[Import JSON into MongoDB](https://github.com/cann-emma/ds2002-dp2/blob/main/import.py)
 
 
-### Course 3: [Programming for Data Science]
+### Course 3: Programming for Data Science
 - **Institution:** University of Virginia.
 - **Description:** Introduces fundamental coding languages in data science, focusing on Python and R, with in-depth coverage of popular packages like pandas and tidyverse. It also covers project management skills, including Git and GitHub, providing a gentle introduction to programming basics, data structures, environment setup, and source control.
 - **Key Projects:**
@@ -73,7 +73,7 @@ A multiple regression analysis was conducted to predict APGAR(Activity, Pulse, G
 - **[General Assignments](https://github.com/cann-emma/DS1002-zgb8ts/tree/main/homework)**
 
 
-### Course 3: [Intro Data Science with R]
+### Course 3: Intro Data Science with R
 - **Institution:** University of Virginia.
 - **Description:** Introduces collecting, manipulating, exploring, analyzing, and displaying data using R. RStudio, Base R functions, ggplot2, Tidyverse, and Rvest were used.
 - **[General Assignments](https://github.com/cann-emma/R)**
@@ -99,4 +99,4 @@ Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/emmanuel
 
 ---
 
-Thank you for visiting my GitHub page! I look forward to connecting with you and discussing potential opportunities.
+Thank you for visiting my GitHub page! I hope you had as much fun looking through as I did making this page. I look forward to connecting with you and discussing potential opportunities.
