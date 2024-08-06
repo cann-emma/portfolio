@@ -53,6 +53,7 @@ A multiple regression analysis was conducted to predict APGAR(Activity, Pulse, G
 - **Description:** Introductory course that explores fundamental techniques and methods in machine learning and data mining, utilizing R for practical application and real-world problem-solving.
 - **Key Projects:**
 - [Lyrics Analysis](https://github.com/Cann-Emma/PSYC-5710-Text-Mining-and-ML/blob/main/BeatlesLyricAnalysis.ipynb)
+- [Big 5 Personality Analysis](https://github.com/cann-emma/PSYC-5710-Text-Mining-and-ML/tree/main/ExploratoryAnalysis)
 
 
 ### Course 2: [Data Science Systems]
@@ -69,13 +70,13 @@ A multiple regression analysis was conducted to predict APGAR(Activity, Pulse, G
 - **Key Projects:**
 - [Analyze FTX with Python](https://github.com/Cann-Emma/DS1002-zgb8ts/blob/main/labs/lab1/lab1-ftx-stock-pricing.ipynb) - Brief description of the project.
 - [Determine Race Results with R](https://github.com/Cann-Emma/DS1002-zgb8ts/blob/main/labs/lab2/lab2-race-results.ipynb)- Brief description of the project.
-- **General Assignments:** [https://github.com/cann-emma/DS1002-zgb8ts/tree/main/homework]
+- **[General Assignments](https://github.com/cann-emma/DS1002-zgb8ts/tree/main/homework)**
 
 
 ### Course 3: [Intro Data Science with R]
 - **Institution:** University of Virginia.
 - **Description:** Introduces collecting, manipulating, exploring, analyzing, and displaying data using R. RStudio, Base R functions, ggplot2, Tidyverse, and Rvest were used.
-- **General Assignments:** [https://github.com/cann-emma/R]
+- **[General Assignments](https://github.com/cann-emma/R)**
 
 
 
