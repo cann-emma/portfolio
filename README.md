@@ -32,7 +32,7 @@ An independent analysis in R of Antarctic penguins, summarizing data on species,
 ![scantron-56a946695f9b58b7d0f9d809](https://github.com/Cann-Emma/portfolio/assets/143144256/b8e3a8be-9260-4d5e-8649-ff486975655d)
 
 
-American high school students take SATs, standardized tests that had three sections - reading, math, and writing, each with a maximum score of 800 points(2400 total). These tests serve an important role in the admission process for students and colleges alike. However, does where you live affect scores?
+A one-way Analysis of Variance test was used to determine whether there was a significant difference in the average total Score on the SAT among students in four boroughs of New York City(Bronx, Brooklyn, Queens, and Manhattan). R was used in this project to describe, visualize, transform and reshape data, as well as, perform hypothesis testing.
 [SAT Analysis](https://github.com/Cann-Emma/R/blob/main/ANOVA_SAT_Score_by_NYCBorough.ipynb)
 
 
@@ -41,7 +41,7 @@ American high school students take SATs, standardized tests that had three secti
 ![Newborn-screening-in-Canada](https://github.com/Cann-Emma/portfolio/assets/143144256/403e96b8-f9c6-4757-837a-ca869a3d2aa9)
 
 
-A multiple regression analysis was conducted to predict APGAR(Activity, Pulse, Grimace, Appearance, Respiration) scores from birthweight, gestastional age, and maternal weight gain. 
+A multiple regression analysis was conducted to predict APGAR(Activity, Pulse, Grimace, Appearance, Respiration) scores from birthweight, gestastional age, and maternal weight gain. R was used to summarize, visualize, check statistical assumptions, and perform significance testing. 
 [APGAR](https://github.com/Cann-Emma/R/blob/main/APGAR_Multiple_Regression.ipynb)
 
 
