@@ -50,7 +50,7 @@ A multiple regression analysis was conducted to predict APGAR(Activity, Pulse, G
 
 ### Course 1: Machine Learning and Data Mining
 - **Institution:** University of Virginia.
-- **Description:** Introductory course that explores fundamental techniques and methods in machine learning and data mining, utilizing R for practical application and real-world problem-solving. Primary focus on text mining, sentiment analysis, zero shot classification, dynamic/exploratory graph analysis, and multiadaptive regression splines. 
+- **Description:** Introductory course for graduate and undergraduate students that explores fundamental techniques and methods in machine learning and data mining, utilizing R for practical application and real-world problem-solving. Primary focus on text mining, sentiment analysis, zero shot classification, dynamic/exploratory graph analysis, and multiadaptive regression splines. 
 - **Key Projects:**
 - [Lyrics Analysis](https://github.com/Cann-Emma/PSYC-5710-Text-Mining-and-ML/blob/main/BeatlesLyricAnalysis.ipynb) 
 - [Big 5 Personality Analysis](https://github.com/cann-emma/PSYC-5710-Text-Mining-and-ML/tree/main/ExploratoryAnalysis)
