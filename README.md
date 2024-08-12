@@ -50,9 +50,9 @@ A multiple regression analysis was conducted to predict APGAR(Activity, Pulse, G
 
 ### Course 1: Machine Learning and Data Mining
 - **Institution:** University of Virginia.
-- **Description:** Introductory course that explores fundamental techniques and methods in machine learning and data mining, utilizing R for practical application and real-world problem-solving.
+- **Description:** Introductory course that explores fundamental techniques and methods in machine learning and data mining, utilizing R for practical application and real-world problem-solving. Primary focus on text mining, sentiment analysis, zero shot classification, dynamic/exploratory graph analysis, and multiadaptive regression splines. 
 - **Key Projects:**
-- [Lyrics Analysis](https://github.com/Cann-Emma/PSYC-5710-Text-Mining-and-ML/blob/main/BeatlesLyricAnalysis.ipynb)
+- [Lyrics Analysis](https://github.com/Cann-Emma/PSYC-5710-Text-Mining-and-ML/blob/main/BeatlesLyricAnalysis.ipynb) 
 - [Big 5 Personality Analysis](https://github.com/cann-emma/PSYC-5710-Text-Mining-and-ML/tree/main/ExploratoryAnalysis)
 
 
@@ -68,8 +68,8 @@ A multiple regression analysis was conducted to predict APGAR(Activity, Pulse, G
 - **Institution:** University of Virginia.
 - **Description:** Introduces fundamental coding languages in data science, focusing on Python and R, with in-depth coverage of popular packages like pandas and tidyverse. It also covers project management skills, including Git and GitHub, providing a gentle introduction to programming basics, data structures, environment setup, and source control.
 - **Key Projects:**
-- [Analyze FTX with Python](https://github.com/Cann-Emma/DS1002-zgb8ts/blob/main/labs/lab1/lab1-ftx-stock-pricing.ipynb) - Brief description of the project.
-- [Determine Race Results with R](https://github.com/Cann-Emma/DS1002-zgb8ts/blob/main/labs/lab2/lab2-race-results.ipynb)- Brief description of the project.
+- [Analyze FTX with Python](https://github.com/Cann-Emma/DS1002-zgb8ts/blob/main/labs/lab1/lab1-ftx-stock-pricing.ipynb) 
+- [Determine Race Results with R](https://github.com/Cann-Emma/DS1002-zgb8ts/blob/main/labs/lab2/lab2-race-results.ipynb)
 - **[General Assignments](https://github.com/cann-emma/DS1002-zgb8ts/tree/main/homework)**
 
 
