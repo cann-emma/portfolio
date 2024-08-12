@@ -32,7 +32,7 @@ An independent analysis in R of Antarctic penguins, summarizing data on species,
 ![scantron-56a946695f9b58b7d0f9d809](https://github.com/Cann-Emma/portfolio/assets/143144256/b8e3a8be-9260-4d5e-8649-ff486975655d)
 
 
-A one-way Analysis of Variance test was used to determine whether there was a significant difference in the average total Score on the SAT among students in four boroughs of New York City(Bronx, Brooklyn, Queens, and Manhattan). R was used in this project to describe, visualize, transform and reshape data, as well as, perform hypothesis testing.
+A one-way Analysis of Variance test was used to determine whether there was a significant difference in the average total Score on the SAT among students in four boroughs of New York City(Bronx, Brooklyn, Queens, and Manhattan). R + Python were used in this project to describe, visualize, transform and reshape data, as well as, perform hypothesis testing.
 [SAT Analysis](https://github.com/Cann-Emma/R/blob/main/ANOVA_SAT_Score_by_NYCBorough.ipynb)
 
 
