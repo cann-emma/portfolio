@@ -40,7 +40,7 @@ An image classification project was completed using a convolutional neural netwo
 
 ### Taylor Swift Lyrics Topic, Sentiment, and Emotional analysis
 
-![image](https://github.com/user-attachments/assets/6c95a30f-55ca-4df3-a56c-7bbf90b8dcea)
+![Resilience_Year_meancomp](https://github.com/user-attachments/assets/45d8e51d-f276-413d-a7c7-e91150cfc6d0)
 
 The Taylor Swift lyric analysis project examines the evolution of emotions like confidence and resilience in her lyrics over time. Sentiment analysis, topic modeling, and statistical analysis through wilcoxon test were used to examine emotional shifts across years. The findings revealed a significant increase in emotions such as confidence and resilience in her more recent songs, suggesting a shift in her personal narrative and songwriting style.[Swift](https://github.com/cann-emma/TSwiftLyricAnalysis)
 
