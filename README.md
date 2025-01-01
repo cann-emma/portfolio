@@ -10,12 +10,39 @@
 
 ## Projects
 
-
 ### Kaggle Machine Learning 
+
 ![Screenshot 2024-07-28 000558](https://github.com/user-attachments/assets/1e742083-aed9-4b9b-af00-55a5de45b301) 
 
 
 A machine learning model was built to predict ratings of medications based on information from medication review. Text mining and exploratory graph analysis were used to preprocess and develop topics from text. Emoxicon and sentiment analysis were used to compute emotions and sentiments available in the review. Finally, transformer scores were used to analyse sentiment and compute probability of review belonging to 'Satisfication' classes, and Multivariate Adaptive Regression Spines was used to train model. Root Mean Squared Error was used to test the performance of the model. The primary language in this project was R. 
+
+
+### Predicting Box Office Success: Enhancing Accuracy with Keyword Analysis 
+
+![Screenshot 2024-12-31 190359](https://github.com/user-attachments/assets/3f23590d-826d-46b9-a589-f60341a07107)
+
+The project analyzed box office success using text data from movie keywords to identify patterns associated with high revenue. Keyword data was preprocessed and tokenized, machine learning models were then built to predict success based on keyword features. Results highlighted the importance of specific themes and genres in driving box office performance, offering insights for content strategy and marketing. [Box Office](https://github.com/oak50/DS3001-Project1/tree/main)
+
+
+### COVID-19 Deaths Decrease Over Time As Vaccination Doses Increase: A Time Series Analysis
+
+![image](https://github.com/user-attachments/assets/132afbba-420d-4438-a201-439c53d1a143)
+
+A time series analysis was conducted to examine the relationship between COVID-19 deaths and vaccination rates, utilizing cross-correlation functions, Granger causality, and Pearson’s correlation. The project involved thorough planning, including setting clear objectives, defining methodologies, and establishing a timeline for deliverables. Collaboration with two other team members ensured tasks were divided efficiently, with regular check-ins to align progress. [Time Series](https://github.com/carolinehagood/covid-project)
+
+
+### Identifying Dog Breeds From Image Data
+
+![image](https://github.com/user-attachments/assets/e5c35e60-2be4-4b09-987f-8e541f8a7156)
+
+An image classification project was completed using a convolutional neural network (CNN) to classify visual data into predefined categories. The process involved data preprocessing, feature extraction, model training, and evaluation to optimize accuracy. [Image Analysis](https://github.com/carolinehagood/ds4002-project3)
+
+### Taylor Swift Lyrics Topic, Sentiment, and Emotional analysis
+
+![image](https://github.com/user-attachments/assets/6c95a30f-55ca-4df3-a56c-7bbf90b8dcea)
+
+The Taylor Swift lyric analysis project examines the evolution of emotions like confidence and resilience in her lyrics over time. Sentiment analysis, topic modeling, and statistical analysis through wilcoxon test were used to examine emotional shifts across years. The findings revealed a significant increase in emotions such as confidence and resilience in her more recent songs, suggesting a shift in her personal narrative and songwriting style.[Swift](https://github.com/cann-emma/TSwiftLyricAnalysis)
 
 
 ### Data Analysis Of Palmer Archipelago Penguins
