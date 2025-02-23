@@ -1,10 +1,10 @@
-title: Emmanuella Cann's Portfolio
+title: Portfolio
 description: Hello and welcome! I'm Emmanuella (Emma) Cann, a Behavioral Neuroscience and Data Science student with a passion for data analytics, exploratory data analysis, and machine learning. This repository showcases my academic work, projects, and accomplishments in leveraging data to uncover insights and solve complex problems. I am continuously expanding my skills and knowledge, and I’m excited to apply my analytical expertise to real-world challenges.
 show_downloads: False
-remote_theme: pages-themes/time-machine@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme 
-
+google_analytics: G-2JX0T366SH
 
 
 
