@@ -1,4 +1,5 @@
-## Directory
+## Emmanuella Cann | Data Portfolio
+### Directory
 
 1. [Projects](#projects)
 2. [Coursework](#coursework)
