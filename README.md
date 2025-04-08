@@ -147,11 +147,6 @@ A multiple regression analysis was conducted to predict APGAR(Activity, Pulse, G
 
 
 ## Skills
-- **Programming Languages:** R, Python, SQL
-- **Frameworks and Libraries:** [dplyr, psych, pandas, numpy, matplotlib, seaborn, car, ggplot2, etc.]
-- **Tools and Technologies:** Git, Jupyter Notebooks, RStudio, Visual Studio Code, PostreSQL, MongoDB, Selector Gadget.
-- **Other Skills:** Data analysis, Data visualization, Regression, Classification, Web Scraping, Data Mining, etc.
-
 - **Programming Languages:**
   Python, R, SQL, Bash
 
