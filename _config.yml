@@ -1,11 +1,13 @@
 title: Emmanuella Cann | Data Portfolio
-description: Hi, I'm Emmanuella Cann—a behavioral neuroscience and data science student passionate about uncovering insights through data. This portfolio showcases the skills, tools, and methods I've developed through hands-on coursework, research, and independent projects across psychology, business, healthcare, and beyond.
+description: Hello World! 
+I'm Emmanuella Cann, a behavioral neuroscience and data science student passionate about uncovering insights through data. This portfolio showcases the skills, tools, and methods I've developed through hands-on coursework, research, and independent projects across psychology, business, healthcare, and beyond.
 
-My work spans the full data science pipeline: from wrangling and visualizing complex datasets to building and evaluating machine learning models. I’ve worked with structured and unstructured data—including text, time-series, and image data—and used a variety of tools such as Python, R, SQL, MySQL, MongoDB, Power BI, and Tableau. I also have experience with web scraping, APIs, cloud-based infrastructure, and version control using Git and GitHub.
+My work spans the full data science pipeline; from wrangling and visualizing complex datasets to building and evaluating machine learning models. I’ve worked with structured and unstructured data—including text, time-series, and image data—and used a variety of tools such as Python, R, SQL, MySQL, MongoDB, Power BI, and Tableau. I also have experience with web scraping, APIs, cloud-based infrastructure, and version control using Git and GitHub.
 
 This portfolio reflects not only my technical skills but also my commitment to ethical, collaborative, and impactful data science. Whether developing emotion models with transformers, conducting topic modeling, or analyzing psychological datasets with non-parametric tests and MARS, I strive to make data meaningful and accessible to both technical and non-technical audiences.
 
-Thanks for visiting—explore my projects below!
+Thanks for visiting; explore my projects below!
+
 show_downloads: False
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
