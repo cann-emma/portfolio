@@ -75,35 +75,69 @@ A multiple regression analysis was conducted to predict APGAR(Activity, Pulse, G
 
 ## Coursework
 
-### Course 1: Machine Learning and Data Mining
+### Course: Machine Learning and Data Mining
 - **Institution:** University of Virginia.
-- **Description:** Introductory course for graduate and undergraduate students that explores fundamental techniques and methods in machine learning and data mining, utilizing R for practical application and real-world problem-solving. Primary focus on text mining, sentiment analysis, zero shot classification, dynamic/exploratory graph analysis, and multiadaptive regression splines. 
+- **Description:** This course focused on applying machine learning and data mining techniques to psychological data, both structured and unstructured. I learned to transform raw text into analyzable datasets using tools like Emoxicon and transformer-based models to generate emotion scores, and applied topic modeling to uncover underlying themes. I built predictive models using techniques such as MARS (Multivariate Adaptive Regression Splines), and evaluated them using classification and regression metrics while addressing overfitting and variance. The course also covered non-parametric tests (e.g., Wilcoxon), Exploratory Graph Analysis, and emphasized collaborative problem-solving, model selection based on analytical goals, and effectively communicating results to technical and non-technical audiences.
 - **Key Projects:**
 - [Lyrics Analysis](https://github.com/Cann-Emma/PSYC-5710-Text-Mining-and-ML/blob/main/BeatlesLyricAnalysis.ipynb) 
 - [Big 5 Personality Analysis](https://github.com/cann-emma/PSYC-5710-Text-Mining-and-ML/tree/main/ExploratoryAnalysis)
 
 
-### Course 2: Data Science Systems
+
+### Course: Data Science Systems
 - **Institution:** University of Virginia.
-- **Description:** Provides an in-depth understanding of the command-line interface, scripting, code management, and the creation and administration of both local and cloud-based resources. Primary focus on Git and GitHub, Amazon Web Service(Simple Storage Service, Elastic Compute Cloud, and Simple Queue Service), Application Programming Interface, Data Base Management(MySQL, MongoDB), etc.
+- **Description:** This course provided hands-on experience with the technical tools and systems that support modern data science workflows. I worked extensively with the Linux command line, Bash scripting, Git/GitHub for version control, and built data pipelines using both local and cloud-based infrastructure. I learned to manage relational (SQL) and NoSQL databases(MongoDB), automate workflows, and use containers (e.g., Docker) for deployment. The course emphasized selecting appropriate storage and compute environments, scaling workloads, and ensuring consistent software delivery—key skills for designing efficient, production-ready data science systems.
 - **Key Projects:**
 -[Build a Data-Driven API](https://github.com/cann-emma/fastapi-demo-fork/blob/main/app/main.py)
 -[Import JSON into MongoDB](https://github.com/cann-emma/ds2002-dp2/blob/main/import.py)
 
 
-### Course 3: Programming for Data Science
+
+### Course: Programming for Data Science
 - **Institution:** University of Virginia.
-- **Description:** Introduces fundamental coding languages in data science, focusing on Python and R, with in-depth coverage of popular packages like pandas and tidyverse. It also covers project management skills, including Git and GitHub, providing a gentle introduction to programming basics, data structures, environment setup, and source control.
+- **Description:** This course provided a foundational introduction to programming for data science, focusing on Python and R. I gained hands-on experience with core data structures, control flow, functions, and error handling, using libraries like NumPy, pandas, and the tidyverse. The course also emphasized best practices in project management, including version control with Git and GitHub, working in different environments, and handling diverse data types. These skills laid the groundwork for efficient, reproducible coding in future data science projects.
 - **Key Projects:**
 - [Analyze FTX with Python](https://github.com/Cann-Emma/DS1002-zgb8ts/blob/main/labs/lab1/lab1-ftx-stock-pricing.ipynb) 
 - [Determine Race Results with R](https://github.com/Cann-Emma/DS1002-zgb8ts/blob/main/labs/lab2/lab2-race-results.ipynb)
 - **[General Assignments](https://github.com/cann-emma/DS1002-zgb8ts/tree/main/homework)**
 
 
-### Course 3: Intro Data Science with R
+
+### Course: Foundations of Machine Learning
+- **Institution:** University of Virginia.
+- **Description:** This course introduced core data science skills, including data wrangling, exploratory analysis, and visualization, along with foundational machine learning techniques like k-nearest neighbors, clustering, linear models, decision trees, random forests, and neural networks. I gained experience evaluating models using cross-validation, bootstrapping, and regularization (LASSO). The course emphasized ethical considerations and real-world applications across fields such as medicine, business, and criminal justice.
+
+
+
+### Course: Data Science Project
+- **Institution:** University of Virginia.
+- **Description:** This student-led course emphasized hands-on, collaborative learning through three team-based projects. I designed and executed data science pipelines using text, time-series, and image data, developing hypotheses, building models, and presenting results. The course strengthened my skills in critical analysis, peer feedback, and communicating technical findings to diverse audiences. I also gained experience managing group dynamics and working in high-autonomy, feedback-driven environments.
+
+
+
+### Course: Intro Data Science with R
 - **Institution:** University of Virginia.
 - **Description:** Introduces collecting, manipulating, exploring, analyzing, and displaying data using R. RStudio, Base R functions, ggplot2, Tidyverse, and Rvest were used.
 - **[General Assignments](https://github.com/cann-emma/R)**
+
+
+
+### Course: Introduction to Statistical Analysis
+- **Institution:** University of Virginia.
+- **Description:** This course introduced core concepts in probability and statistical theory, with a focus on parameter estimation and hypothesis testing in both simple and multiple regression contexts. Through applications in economics, business, and related fields, I developed the ability to critically evaluate data collection methods, assess the suitability of statistical models, and interpret results accurately. Key skills gained include summarizing and visualizing data, applying appropriate statistical techniques, and clearly communicating analytical findings. The course emphasized understanding randomness and variability as essential components of effective data-driven decision-making.
+
+
+
+### Course: Research Methods and Data Analysis I
+- **Institution:** University of Virginia.
+- **Description:** This course provided a comprehensive introduction to research methodology and statistical analysis, emphasizing the scientific method and critical evaluation of empirical studies. I gained foundational knowledge of research design, descriptive and inferential statistics, and key statistical concepts such as central tendency, variability, hypothesis testing, decision errors, effect size, power, t-tests, analysis of variance, correlation, and regression. The course strengthened my critical thinking skills and equipped me with tools to interpret, appraise, and apply scientific literature and research methods in real-world settings.
+
+  
+
+### Course: Research Methods and Data Analysis II
+- **Institution:** University of Virginia.
+- **Description:** This course deepened my understanding of experimental design and statistical analysis in psychological research, emphasizing computer-controlled experimentation and exploratory data analysis using RStudio. I generated and analyzed my own data, gaining firsthand insight into the impact of data collection choices on research validity and interpretation. Through this process, I developed the ability to identify appropriate statistical procedures, perform analyses, and interpret results across disciplines including business, medicine, and the social sciences. The course emphasized clear communication of statistical findings to both expert and general audiences, and sharpened my ability to critically evaluate published research. I also strengthened my skills in R and built confidence in independently advancing my knowledge of statistical tools.
+
 
 
 
@@ -117,6 +151,18 @@ A multiple regression analysis was conducted to predict APGAR(Activity, Pulse, G
 - **Frameworks and Libraries:** [dplyr, psych, pandas, numpy, matplotlib, seaborn, car, ggplot2, etc.]
 - **Tools and Technologies:** Git, Jupyter Notebooks, RStudio, Visual Studio Code, PostreSQL, MongoDB, Selector Gadget.
 - **Other Skills:** Data analysis, Data visualization, Regression, Classification, Web Scraping, Data Mining, etc.
+
+- **Programming Languages:**
+  Python, R, SQL, Bash
+
+- **Frameworks and Libraries:**
+  pandas, NumPy, tidyverse, scikit-learn, caret, Emoxicon, transformer-based models, ggplot2, statsmodels, MARS (earth package in R)
+
+- **Tools and Technologies:**
+  Git, GitHub, RStudio, Jupyter Notebook, Visual Studio Code, Docker, cloud platforms (e.g., AWS basics), command-line interface, version control, relational databases (SQL), NoSQL databases
+
+- **Other Skills:**
+  Data wrangling, data visualization, hypothesis testing, topic modeling, sentiment & emotion analysis, machine learning (classification & regression), model evaluation (cross-validation, regularization, bootstrapping), Exploratory Graph Analysis, working with       structured & unstructured data, collaboration & peer feedback, communicating insights to technical and non-technical audiences
 
 
 
