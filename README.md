@@ -1,4 +1,4 @@
-## Table of Contents
+## Directory
 
 1. [Projects](#projects)
 2. [Coursework](#coursework)
