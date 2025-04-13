@@ -2,7 +2,7 @@
 ### Directory
 
 1. [Projects](#projects)
-2. [Coursework](#coursework)
+2. [Relevant Coursework](#coursework)
 3. [Certifications](#certifications)
 4. [Skills](#skills)
 5. [Contact](#contact)
@@ -74,7 +74,7 @@ A multiple regression analysis was conducted to predict APGAR(Activity, Pulse, G
 
 
 
-## Coursework
+## Relevant Coursework
 
 ### Course: Machine Learning and Data Mining
 - **Institution:** University of Virginia.
@@ -141,9 +141,24 @@ A multiple regression analysis was conducted to predict APGAR(Activity, Pulse, G
 
 
 
+### Course: Principles of Microeconomics
+- **Institution:** University of Virginia
+- **Description:** This course developed my ability to analyze how individuals, firms, and governments make decisions under constraints. I learned to interpret supply and demand dynamics, evaluate the impact of government intervention and market failures, and compare pricing strategies in competitive, monopolistic, and oligopolistic markets. The course also introduced game theory and the economics of labor and income distribution. These concepts strengthened my understanding of market behavior, strategic decision-making, and resource allocation—skills relevant to roles in business, consulting, and analytics.
+
+
+
 
 ## Certifications
-- **SQL Associate Certification:** DataCamp - [View Certificate](https://www.datacamp.com/certificate/SQA0012481783751)
+- **Google Data Analytics Certificate** – Coursera (In Progress; Expected July 2025)
+- **Description:** The Google Data Analytics Professional Certificate is a career-focused program that trains learners in the core skills required for entry-level data analyst roles. It covers the full data analysis process—from asking the right questions to cleaning, analyzing, and visualizing data, and communicating insights effectively. Tools and platforms include SQL, spreadsheets, R, Tableau, and BigQuery. The program emphasizes practical, hands-on learning through real-world business scenarios, with a strong focus on data ethics, analytical thinking, and stakeholder communication.
+So far, I’ve gained experience in cleaning and formatting data, identifying data quality issues, and using SQL and spreadsheets to prepare data for analysis. As I continue through the program, I will learn how to apply descriptive and inferential statistics, build interactive dashboards, create compelling visualizations in Tableau, and deliver data-driven recommendations aligned with business needs.
+
+
+  
+- **SQL Associate Certification:** DataCamp (Completed; July 2024)- [View Certificate](https://www.datacamp.com/certificate/SQA0012481783751)
+- **Description:** Throughout this certification, I developed strong SQL skills essential for data analysis and business problem-solving, dedicating over 100 hours to hands-on learning and assessment. I gained experience creating and querying relational databases to extract meaningful insights, using joins to combine data from multiple tables, and applying aggregate functions to summarize large datasets. I also learned to clean and transform data efficiently, working primarily in PostgreSQL. A key focus was on writing optimized queries to improve performance and handle complex datasets. These skills were applied and tested through timed coding challenges and a practical business case project, preparing me to manage and analyze real-world data with precision and efficiency.
+  
+
 
 
 
@@ -155,7 +170,7 @@ A multiple regression analysis was conducted to predict APGAR(Activity, Pulse, G
   pandas, NumPy, tidyverse, scikit-learn, caret, Emoxicon, transformer-based models, ggplot2, statsmodels, MARS (earth package in R)
 
 - **Tools and Technologies:**
-  Git, GitHub, RStudio, Jupyter Notebook, Visual Studio Code, Docker, cloud platforms (e.g., AWS basics), command-line interface, version control, relational databases (SQL), NoSQL databases
+  Git, GitHub, Gitpod, RStudio, Jupyter Notebook, Visual Studio Code, Docker, AWS (EC2, S3, SQS), command-line interface, PostgreSQL, BigQuery, MongoDB, mySQL, Tableau, PowerBI, Excel and Google Sheets
 
 - **Other Skills:**
   Data wrangling, data visualization, hypothesis testing, topic modeling, sentiment & emotion analysis, machine learning (classification & regression), model evaluation (cross-validation, regularization, bootstrapping), Exploratory Graph Analysis, working with       structured & unstructured data, collaboration & peer feedback, communicating insights to technical and non-technical audiences
@@ -164,7 +179,7 @@ A multiple regression analysis was conducted to predict APGAR(Activity, Pulse, G
 
 ## Contact
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/emmanuella-cann) or email me at (zgb8ts@virginia.edu).
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/emmanuella-cann) or email me at (emmanuellacann16@gmail.com).
 
 ---
 
