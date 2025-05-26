@@ -149,7 +149,7 @@ A multiple regression analysis was conducted to predict APGAR(Activity, Pulse, G
 
 
 ## Certifications
-### Google Data Analytics Certificate** – Coursera (In Progress; Expected July 2025)
+### Google Data Analytics Certificate** Coursera (Completed; May 2025)- [View Certificate](https://www.credly.com/badges/e83172ae-9557-435e-9665-a3c0b3edd7b3/public_url)
  -**Description:** The Google Data Analytics Professional Certificate is a career-focused program that trains learners in the core skills required for entry-level data analyst roles. It covers the full data analysis process—from asking the right questions to cleaning, analyzing, and visualizing data, and communicating insights effectively. Tools and platforms include SQL, spreadsheets, R, Tableau, and BigQuery. The program emphasizes practical, hands-on learning through real-world business scenarios, with a strong focus on data ethics, analytical thinking, and stakeholder communication.
 So far, I’ve gained experience in cleaning and formatting data, identifying data quality issues, and using SQL and spreadsheets to prepare data for analysis. As I continue through the program, I will learn how to apply descriptive and inferential statistics, build interactive dashboards, create compelling visualizations in Tableau, and deliver data-driven recommendations aligned with business needs.
 
