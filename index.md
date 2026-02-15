@@ -30,4 +30,4 @@ I work across the full data lifecycle, from exploratory analysis and visualizati
 
 ## Explore My Work
 
-[View Projects →](portfolio/projects)
+[View Projects →](portfolio/projects/)
