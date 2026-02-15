@@ -3,7 +3,6 @@
 
 @import "{{ site.theme }}";
 
-/* Your custom styles below */
 .project-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -22,4 +21,8 @@
 .project-card:hover {
   transform: translateY(-6px);
   box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+}
+
+body {
+  background: red;
 }
