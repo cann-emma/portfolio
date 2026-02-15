@@ -149,13 +149,13 @@ A multiple regression analysis was conducted to predict APGAR(Activity, Pulse, G
 
 
 ## Certifications
-### Google Data Analytics Certificate** Coursera (Completed; May 2025)- [View Certificate](https://www.credly.com/badges/e83172ae-9557-435e-9665-a3c0b3edd7b3/public_url)
+### Google Data Analytics Certificate Coursera (Completed; May 2025)- [View Certificate](https://www.credly.com/badges/e83172ae-9557-435e-9665-a3c0b3edd7b3/public_url)
  -**Description:** The Google Data Analytics Professional Certificate is a career-focused program that trains learners in the core skills required for entry-level data analyst roles. It covers the full data analysis process—from asking the right questions to cleaning, analyzing, and visualizing data, and communicating insights effectively. Tools and platforms include SQL, spreadsheets, R, Tableau, and BigQuery. The program emphasizes practical, hands-on learning through real-world business scenarios, with a strong focus on data ethics, analytical thinking, and stakeholder communication.
 So far, I’ve gained experience in cleaning and formatting data, identifying data quality issues, and using SQL and spreadsheets to prepare data for analysis. As I continue through the program, I will learn how to apply descriptive and inferential statistics, build interactive dashboards, create compelling visualizations in Tableau, and deliver data-driven recommendations aligned with business needs.
 
 
 
-### SQL Associate Certification:** DataCamp (Completed; July 2024)- [View Certificate](https://www.datacamp.com/certificate/SQA0012481783751)
+### SQL Associate Certification: DataCamp (Completed; July 2024)- [View Certificate](https://www.datacamp.com/certificate/SQA0012481783751)
 -**Description:** Throughout this certification, I developed strong SQL skills essential for data analysis and business problem-solving, dedicating over 100 hours to hands-on learning and assessment. I gained experience creating and querying relational databases to extract meaningful insights, using joins to combine data from multiple tables, and applying aggregate functions to summarize large datasets. I also learned to clean and transform data efficiently, working primarily in PostgreSQL. A key focus was on writing optimized queries to improve performance and handle complex datasets. These skills were applied and tested through timed coding challenges and a practical business case project, preparing me to manage and analyze real-world data with precision and efficiency.
   
 
