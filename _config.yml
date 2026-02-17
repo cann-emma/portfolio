@@ -6,9 +6,7 @@ plugins:
   - jekyll-remote-theme
 
 title: Emma Cann
-description: Data Science & ML Systems Professional  
-Bridging behavioral science, statistical modeling, and production machine learning systems.
-
+description: Data Science & ML Systems Professional
 
 url: "https://cann-emma.github.io"
 baseurl: "/portfolio"
