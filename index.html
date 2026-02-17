@@ -2,24 +2,42 @@
 layout: default
 ---
 
-<h1>Explore My Work</h1>
+<section class="hero">
+  <h1>Hi, I’m Emmanuella.</h1>
 
-{% assign categories = "Text & NLP,Predictive Modeling & Machine Learning,Statistical Modeling & Hypothesis Testing,Time Series & Causal Analysis,Data Systems & Engineering" | split: "," %}
+  <h2>Applied Machine Learning & Data Systems Engineer</h2>
 
-{% for cat in categories %}
-  {% assign filtered_projects = site.projects | where: "category", cat | sort: "order" %}
+  <p class="hero-impact">
+    I design and deploy data-driven solutions that transform raw data into reliable, scalable, and production-ready systems.
+  </p>
 
-  {% if filtered_projects.size > 0 %}
-    <h2 class="category-title">{{ cat }}</h2>
+  <div class="hero-buttons">
+    <a href="#projects" class="btn-primary">View Projects</a>
+    <a href="/assets/Emmanuella_Resume.pdf" class="btn-secondary">Download Resume</a>
+  </div>
+</section>
 
-    <div class="project-grid">
-      {% for project in filtered_projects %}
-        <div class="project-card">
-          <h3>{{ project.title }}</h3>
-          <p>{{ project.description }}</p>
-          <a href="{{ project.url | relative_url }}">View Project →</a>
-        </div>
-      {% endfor %}
-    </div>
-  {% endif %}
-{% endfor %}
+
+<section id="projects">
+  <h2 class="section-title">Explore My Work</h2>
+
+  {% assign categories = "Text & NLP,Predictive Modeling & Machine Learning,Statistical Modeling & Hypothesis Testing,Time Series & Causal Analysis,Data Systems & Engineering" | split: "," %}
+
+  {% for cat in categories %}
+    {% assign filtered_projects = site.projects | where: "category", cat | sort: "order" %}
+
+    {% if filtered_projects.size > 0 %}
+      <h3 class="category-title">{{ cat }}</h3>
+
+      <div class="project-grid">
+        {% for project in filtered_projects %}
+          <div class="project-card">
+            <h4>{{ project.title }}</h4>
+            <p>{{ project.description }}</p>
+            <a href="{{ project.url | relative_url }}">View Project →</a>
+          </div>
+        {% endfor %}
+      </div>
+    {% endif %}
+  {% endfor %}
+</section>
