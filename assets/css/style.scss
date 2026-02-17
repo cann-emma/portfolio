@@ -3,18 +3,85 @@
 
 @import "{{ site.theme }}";
 
+section {
+  padding: 60px 20px;
+}
+
+.hero {
+  text-align: center;
+  padding: 100px 20px 80px;
+}
+
+.hero h1 {
+  font-size: 2.8rem;
+  margin-bottom: 12px;
+}
+
+.hero h2 {
+  font-weight: 500;
+  color: #555;
+  margin-bottom: 20px;
+}
+
+.hero-impact {
+  max-width: 700px;
+  margin: 0 auto 35px;
+  font-size: 1.1rem;
+  color: #666;
+}
+
+.hero-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.btn-primary {
+  background-color: #2d6cdf;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.btn-primary:hover {
+  opacity: 0.9;
+}
+
+.btn-secondary {
+  border: 1px solid #2d6cdf;
+  color: #2d6cdf;
+  padding: 12px 24px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.btn-secondary:hover {
+  background-color: #f2f6ff;
+}
+
+.section-title {
+  text-align: center;
+  margin-bottom: 50px;
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.category-title {
+  margin-top: 70px;
+  margin-bottom: 25px;
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+
 .project-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 24px;
   margin-bottom: 40px;
-}
-
-.category-title {
-  margin-top: 60px;
-  margin-bottom: 20px;
-  font-size: 1.8rem;
-  font-weight: 600;
 }
 
 .project-card {
@@ -23,8 +90,6 @@
   padding: 24px;
   background: white;
   transition: all 0.2s ease;
-  border: none;
-  box-shadow: 0 4px 14px rgba(0,0,0,0.06);
 }
 
 .project-card:hover {
@@ -32,7 +97,7 @@
   box-shadow: 0 8px 20px rgba(0,0,0,0.08);
 }
 
-.project-card h3 {
+.project-card h4 {
   margin-top: 0;
   margin-bottom: 10px;
 }
