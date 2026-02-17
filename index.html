@@ -34,7 +34,19 @@ layout: default
           <div class="project-card">
             <h4>{{ project.title }}</h4>
             <p>{{ project.description }}</p>
-            <a href="{{ project.url | relative_url }}">View Project →</a>
+
+            <div class="card-links">
+              <a href="{{ project.url | relative_url }}" class="details-link">
+                Details →
+              </a>
+
+              {% if project.github %}
+                <a href="{{ project.github }}" target="_blank" class="github-link">
+                  GitHub →
+                </a>
+              {% endif %}
+            </div>
+
           </div>
         {% endfor %}
       </div>
