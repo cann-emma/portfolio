@@ -116,3 +116,29 @@ section {
 .project-card a:hover {
   text-decoration: underline;
 }
+
+.card-links {
+  margin-top: 14px;
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.details-link {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.details-link:hover {
+  text-decoration: underline;
+}
+
+.github-link {
+  font-weight: 600;
+  text-decoration: none;
+  color: #2d6cdf;
+}
+
+.github-link:hover {
+  text-decoration: underline;
+}
