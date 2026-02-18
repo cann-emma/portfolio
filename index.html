@@ -2,6 +2,7 @@
 layout: default
 ---
 
+
 <section class="hero">
   <h1>Hi, I’m Emma.</h1>
 
@@ -16,6 +17,7 @@ layout: default
     <a href="/assets/Emmanuella_Resume.pdf" class="btn-secondary">Download Resume</a>
   </div>
 </section>
+
 
 
 <section id="projects">
@@ -36,17 +38,23 @@ layout: default
             <p>{{ project.description }}</p>
 
             <div class="card-links">
+              
+          
               <a href="{{ project.url | relative_url }}" class="details-link">
                 Details →
               </a>
 
+             
               {% if project.github %}
-                <a href="{{ project.github }}" target="_blank" class="github-link">
+                <a href="{{ project.github | escape }}" 
+                   target="_blank" 
+                   rel="noopener noreferrer" 
+                   class="github-link">
                   GitHub →
                 </a>
               {% endif %}
-            </div>
 
+            </div>
           </div>
         {% endfor %}
       </div>
