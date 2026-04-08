@@ -139,6 +139,33 @@ section {
   color: #2d6cdf;
 }
 
+
+.tool-cloud {
+  margin: 15px 0 25px 0;
+}
+
+.tool-badge {
+  display: inline-block;
+  background-color: #e8f0fe;
+  color: #1a73e8;
+  padding: 6px 12px;
+  margin: 5px;
+  border-radius: 20px;
+  font-size: 13px;
+  cursor: pointer;
+  transition: 0.2s ease;
+}
+
+.tool-badge:hover {
+  background-color: #d2e3fc;
+}
+
+.tool-badge.active {
+  background-color: #1a73e8;
+  color: white;
+}
+
+
 .tool-tags {
   margin: 8px 0 10px 0;
 }
