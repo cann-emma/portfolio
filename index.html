@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 <section class="hero">
   <h1>Hi, I’m Emma.</h1>
 
@@ -19,7 +18,6 @@ layout: default
 </section>
 
 
-
 <section id="projects">
   <h2 class="section-title">Explore My Work</h2>
 
@@ -34,17 +32,29 @@ layout: default
       <div class="project-grid">
         {% for project in filtered_projects %}
           <div class="project-card">
+
+            <!-- Project Title -->
             <h4>{{ project.title }}</h4>
+
+            <!-- Tool Tags -->
+            {% if project.tools %}
+              <div class="tool-tags">
+                {% for tool in project.tools limit:4 %}
+                  <span class="tool-tag">{{ tool }}</span>
+                {% endfor %}
+              </div>
+            {% endif %}
+
+            <!-- Description -->
             <p>{{ project.description }}</p>
 
+            <!-- Links -->
             <div class="card-links">
               
-          
               <a href="{{ project.url | relative_url }}" class="details-link">
                 Details →
               </a>
 
-             
               {% if project.github %}
                 <a href="{{ project.github | escape }}" 
                    target="_blank" 
@@ -55,9 +65,18 @@ layout: default
               {% endif %}
 
             </div>
+
           </div>
         {% endfor %}
       </div>
     {% endif %}
   {% endfor %}
 </section>
+
+
+
+
+
+
+
+
