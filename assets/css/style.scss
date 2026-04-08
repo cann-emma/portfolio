@@ -139,6 +139,20 @@ section {
   color: #2d6cdf;
 }
 
+.tool-tags {
+  margin: 8px 0 10px 0;
+}
+
+.tool-tag {
+  display: inline-block;
+  background-color: #f2f4f7;
+  color: #333;
+  font-size: 12px;
+  padding: 4px 8px;
+  margin: 3px 4px 0 0;
+  border-radius: 12px;
+}
+
 .github-link:hover {
   text-decoration: underline;
 }
