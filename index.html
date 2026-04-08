@@ -18,6 +18,34 @@ layout: default
 </section>
 
 
+
+<section id="tech-stack">
+  <h2 class="section-title">Tech Stack</h2>
+
+  {% assign all_tools = "" | split: "" %}
+  {% for project in site.projects %}
+    {% assign all_tools = all_tools | concat: project.tools %}
+  {% endfor %}
+  {% assign unique_tools = all_tools | uniq | sort %}
+
+  <div class="tool-cloud">
+    
+ 
+    <span class="tool-badge active" onclick="filterProjects('all', event)">
+      All
+    </span>
+
+  
+    {% for tool in unique_tools %}
+      <span class="tool-badge" onclick="filterProjects('{{ tool }}', event)">
+        {{ tool }}
+      </span>
+    {% endfor %}
+
+  </div>
+</section>
+
+
 <section id="projects">
   <h2 class="section-title">Explore My Work</h2>
 
@@ -31,12 +59,13 @@ layout: default
 
       <div class="project-grid">
         {% for project in filtered_projects %}
-          <div class="project-card">
 
-            <!-- Project Title -->
+       
+          <div class="project-card" data-tools="{{ project.tools | join: ',' }}">
+          
             <h4>{{ project.title }}</h4>
 
-            <!-- Tool Tags -->
+           
             {% if project.tools %}
               <div class="tool-tags">
                 {% for tool in project.tools limit:4 %}
@@ -45,10 +74,8 @@ layout: default
               </div>
             {% endif %}
 
-            <!-- Description -->
             <p>{{ project.description }}</p>
 
-            <!-- Links -->
             <div class="card-links">
               
               <a href="{{ project.url | relative_url }}" class="details-link">
@@ -67,6 +94,7 @@ layout: default
             </div>
 
           </div>
+
         {% endfor %}
       </div>
     {% endif %}
@@ -74,9 +102,22 @@ layout: default
 </section>
 
 
+<script>
+function filterProjects(selectedTool, event) {
+  const projects = document.querySelectorAll('.project-card');
+  const buttons = document.querySelectorAll('.tool-badge');
 
+  buttons.forEach(btn => btn.classList.remove('active'));
+  event.target.classList.add('active');
 
+  projects.forEach(project => {
+    const tools = project.getAttribute('data-tools');
 
-
-
-
+    if (selectedTool === 'all' || tools.includes(selectedTool)) {
+      project.style.display = 'block';
+    } else {
+      project.style.display = 'none';
+    }
+  });
+}
+</script>
