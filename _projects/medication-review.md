@@ -1,6 +1,6 @@
 ---
-title: "Predictive Modeling & Machine Learning"
-category: ""
+title: "Medication Review Rating Prediction"
+category: "Predictive Modeling & Machine Learning"
 tools: ["R", "NLP", "Emoxicon", "Transformer Models", "MARS", "Topic Modeling"]
 order: 1
 image: 
