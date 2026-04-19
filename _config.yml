@@ -14,3 +14,9 @@ baseurl: "/portfolio"
 collections:
   projects:
     output: true
+    
+category_order:
+  - Data Systems & Engineering
+  - Predictive Modeling & Machine Learning
+  - Statistical Modeling & Hypothesis Testing
+  - Time Series & Causal Analysis
