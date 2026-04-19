@@ -49,7 +49,7 @@ layout: default
 <section id="projects">
   <h2 class="section-title">Explore My Work</h2>
 
-  {% assign categories = "Text & NLP,Predictive Modeling & Machine Learning,Statistical Modeling & Hypothesis Testing,Time Series & Causal Analysis,Data Systems & Engineering" | split: "," %}
+  {% assign categories = "Data Systems & Engineering, Predictive Modeling & Machine Learning, Statistical Modeling & Hypothesis Testing, Time Series & Causal Analysis" | split: "," %}
 
   {% for cat in categories %}
     {% assign filtered_projects = site.projects | where: "category", cat | sort: "order" %}
