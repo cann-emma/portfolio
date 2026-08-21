@@ -6,7 +6,7 @@ plugins:
   - jekyll-remote-theme
 
 title: EMMA CANN
-description: Data Science & ML Systems Professional
+description: Data & AI Systems Professional
 
 url: "https://cann-emma.github.io"
 baseurl: "/portfolio"
