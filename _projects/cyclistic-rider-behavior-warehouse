@@ -1,0 +1,8 @@
+---
+title: "Cyclistic Rider Behavior Warehouse"
+category: "Data Systems & Engineering"
+tools: ["PostgreSQL","Git","Linux", "Tableau", "VS Code"]
+order: 1
+description: "Designed and implemented an analytics-ready data warehouse for 5.8M+ Cyclistic trip records using a layered ETL architecture. Consolidated and cleaned 12 monthly datasets in Python, loaded data into PostgreSQL through raw and staging layers, and modeled the data using a star schema with fact and dimension tables to support scalable rider behavior analysis."
+github: "https://github.com/cann-emma/Bike-Share-Data-Warehouse/blob/main"
+---
